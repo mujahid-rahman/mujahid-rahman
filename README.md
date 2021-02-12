@@ -10,3 +10,15 @@
 ## Professional Skills
 
 <img src="https://img.shields.io/badge/Communication-593D88?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Team_Work-DB7093?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Project_Management-0081CB?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Creativity-CD2640?style=for-the-badge&logo=&logoColor=white">
+
+## Contact Me
+
+<p>
+<a href="https://www.linkedin.com/in/mujahid-rahman-406123158/">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:mujahidrahman10@gmail.com">
+ <img src="https://img.shields.io/badge/Email-3ABFE6?style=for-the-badge&logo=Minutemailer&logoColor=white">
+</a>
+</p>
