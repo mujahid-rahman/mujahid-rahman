@@ -1,4 +1,7 @@
-### Hi there 👋
+## I'm Mujahid Rahman
+
+#### Final year BSc (Hons) Mathematics with Finance and Economics student looking to build a network of professionals in the Business Intelligence/ Data Science industry. Also I am good at
+
 
 <!--
 **mujahid-rahman/mujahid-rahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
