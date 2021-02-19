@@ -1,7 +1,7 @@
 ## I'm Mujahid Rahman
 #### Data Analysis | Business Analysis | App Development
 
-#### Final year BSc (Hons) Mathematics with Finance and Economics student looking to build a network of professionals in the Business Intelligence/ Data Science industry. 
+#### Final year BSc (Hons) Mathematics with Finance and Economics student looking to build a network of professionals in the Software Engineering/ Data Science industry. 
 
 ## Technical Skills
 
