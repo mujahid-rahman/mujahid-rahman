@@ -5,7 +5,7 @@
 
 ## Technical Skills
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-430098?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/CSS-00C7B7?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Visual_Basic_Application-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/HTML5-430098?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/CSS-00C7B7?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Visual_Basic_Application-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
 ## Professional Skills
 
