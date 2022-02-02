@@ -1,7 +1,7 @@
 ## I'm Mujahid Rahman
 #### Data Analysis | Software Development | App Development
 
-#### BSc (Hons) Mathematics with Finance and Economics graduate looking to build a network of professionals in the Software Engineering/Development industry.
+#### MSc Computer Science student looking to build a network of professionals in the Software Engineering/Development industry.
 
 ## Technical Skills
 
